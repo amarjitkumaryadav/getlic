@@ -9,6 +9,10 @@
         display: inline;
         padding-right: 0px;
     }
+    @media screen and (max-width:500px) {
+        .toppic .jitu{
+            padding-left: 50px;
+        }
     
 }
 @media screen and (max-width:500px) {
@@ -16,9 +20,9 @@
         display: inline;
         
     }
-     @media screen and (max-width:500px) {
+    @media screen and (max-width:500px) {
         div.jitu{
-            padding-left: 61px;
+            padding-left: 30px;
             
         }
     @media screen and (max-width:500px) {
@@ -40,6 +44,7 @@
         .hover{
             font-size: 15px;
             font-weight: 700;
+            display: inherit;
             
         }
         @media screen and (max-width:500px) {
@@ -47,5 +52,3 @@
                 display: block;
                 
             }
-        
-        
