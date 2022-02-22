@@ -16,6 +16,11 @@
         display: inline;
         
     }
+     @media screen and (max-width:500px) {
+        div.jitu{
+            padding-left: 61px;
+            
+        }
     @media screen and (max-width:500px) {
         div.chasma {
             display: none;}
