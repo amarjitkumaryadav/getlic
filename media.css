@@ -1,0 +1,46 @@
+@media screen and (max-width:500px) {
+    .navbar{
+        display: none;
+    }
+    
+}
+@media screen and (max-width:500px) {
+    .homebar nav{
+        display: inline;
+        padding-right: 0px;
+    }
+    
+}
+@media screen and (max-width:500px) {
+    body .main{
+        display: inline;
+        
+    }
+    @media screen and (max-width:500px) {
+        div.chasma {
+            display: none;}
+            @media screen and (max-width:500px) {
+                div.azadi {
+                    display: none;}
+                    @media screen and (max-width:500px) {
+                        div.face {
+                            display: none;}
+                            @media screen and (max-width:500px) {
+                                div.tube{
+                                    display: none;}
+            
+
+    
+    @media screen and (max-width:500px) {
+        .hover{
+            font-size: 15px;
+            font-weight: 700;
+            
+        }
+        @media screen and (max-width:500px) {
+            div.fo{
+                display: block;
+                
+            }
+        
+        
