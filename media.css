@@ -45,10 +45,18 @@
             font-size: 15px;
             font-weight: 700;
             display: inherit;
+            line-height: 44px;}
+            @media screen and (max-width:500px) {
+                div.papa{
+                    padding-left: 4px;
+                    line-height: 1.6;
+                    padding-top: 16px;
+                    padding-bottom: 16px;
+                    font-size: 18px;
+                    text-align: -moz-center;
+                     }
             
         }
         @media screen and (max-width:500px) {
             div.fo{
-                display: block;
-                
-            }
+                display: block;}  
