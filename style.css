@@ -11,6 +11,9 @@ color: white;
 a:hover{
     color: #ffc107;
 }
+h1{
+    color: #01559b;
+}
 
 .navbar{
     DISPLAY: FLEX;
